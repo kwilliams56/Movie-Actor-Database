@@ -18,7 +18,7 @@ A C++ database search system that allows users to search for movies and actors u
 - File I/O
 - Regular Expressions
 
-##What I Learned
+What I Learned
 
 This project helped me improve my understanding of:
 
